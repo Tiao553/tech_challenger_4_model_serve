@@ -1,0 +1,42 @@
+2025-05-30 22:54:21,026 - INFO - [get_stock_data] Símbolo=TSLA de 2025-05-01 até 2025-05-30 intervalo:(1d) periodo:(None) auto_adjust:(True)
+2025-05-30 22:54:22,562 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 22:54:23,137 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-05-30 23:03:20,208 - INFO - [get_stock_data] Símbolo=TSLA de 2025-05-01 até 2025-05-30 intervalo:(1d) periodo:(None) auto_adjust:(True)
+2025-05-30 23:05:12,831 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 23:03:22,251 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-05-30 23:04:57,857 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-05-30 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-05-30 23:04:59,384 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 23:05:00,237 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-05-30 23:05:32,899 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-05-30 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-05-30 23:05:33,914 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 23:05:34,302 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-05-30 23:05:44,415 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-05-30 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-05-30 23:05:45,435 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 23:05:45,824 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-05-30 23:20:09,770 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-05-30 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-05-30 23:20:11,286 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-05-30 23:20:11,862 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:24:44,222 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:24:45,851 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:24:46,424 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:26:54,780 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:26:56,238 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:26:56,830 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:29:29,439 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:29:30,970 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:29:31,604 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:30:13,714 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:30:15,218 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:30:15,806 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:31:19,706 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:31:21,160 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:31:21,760 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:31:37,227 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:31:38,232 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:31:38,658 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:33:39,995 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:33:41,495 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:33:42,081 - INFO - [get_stock_data] Retornando dados de TSLA
+2025-06-03 08:36:12,269 - INFO - [get_stock_data] Símbolo=TSLA de None até 2025-06-03 intervalo:(1m) periodo:(1d) auto_adjust:(True)
+2025-06-03 08:36:14,610 - INFO - Timezone do índice do DataFrame foi convertido para UTC
+2025-06-03 08:36:15,674 - INFO - [get_stock_data] Retornando dados de TSLA
