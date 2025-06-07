@@ -1,0 +1,22 @@
+# Passo 1: Use uma imagem base oficial e leve do Python.
+# 'slim' é uma ótima escolha para produção por ser menor.
+FROM python:3.10-slim
+
+# Passo 2: Defina o diretório de trabalho dentro do contêiner.
+WORKDIR /app
+
+# Passo 3: Copie APENAS o arquivo de dependências primeiro.
+COPY requirements.txt .
+
+# Passo 4: Instale as dependências.
+# --no-cache-dir reduz o tamanho final da imagem.
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Passo 5: Copie o restante do código da sua aplicação para o diretório de trabalho.
+COPY . .
+
+# Passo 6: Exponha a porta que o Uvicorn usará.
+EXPOSE 80
+
+# Passo 7: Comando de inicialização do servidor.
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
